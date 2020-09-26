@@ -6,9 +6,9 @@ It has very low overhead, the only time you need to interact with it is when you
 
 Features:
 
-* Real-time update (bandwidth dependent)
-* Restore points (restore your system to a specific time).
-* The storage can be an external device or remote device.
+* Real-time synchronization
+* Restore points
+* The storage can be an external device or remote device
 * Written in C++
 * Open source
 
